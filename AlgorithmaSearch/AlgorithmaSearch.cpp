@@ -26,8 +26,10 @@ void input() {
 	}
 }
 
-void linearserch() {
-
+void linearsearch() {
+	char ch;
+	int ctr;
+	int item;
 }
 
 
