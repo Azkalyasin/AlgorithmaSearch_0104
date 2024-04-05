@@ -67,6 +67,6 @@ void diplay() {
 
 int main()
 {
-
+	input();
 }
 
