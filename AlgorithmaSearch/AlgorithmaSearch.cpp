@@ -54,9 +54,13 @@ void linearsearch() {
 
 		cout << "\ncontions search (y/n): ";
 		cin >> ch;
-	} while (true);
+	} while ((ch == 'Y') || (ch == 'y'));
 }
 
+
+void diplay() {
+
+}
 
 int main()
 {
