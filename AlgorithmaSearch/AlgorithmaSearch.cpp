@@ -59,7 +59,10 @@ void linearsearch() {
 
 
 void diplay() {
-
+	cout << "Arry elemnts are: ";
+	for (i = 0; i < n; i++)
+		cout << arr[i] << " ";
+	cout << endl;
 }
 
 int main()
