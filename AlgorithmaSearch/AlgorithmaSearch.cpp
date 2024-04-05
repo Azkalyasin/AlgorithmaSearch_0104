@@ -69,5 +69,6 @@ int main()
 {
 	input();
 	linearsearch();
+	diplay();
 }
 
