@@ -26,6 +26,11 @@ void input() {
 	}
 }
 
+void linearserch() {
+
+}
+
+
 int main()
 {
 
